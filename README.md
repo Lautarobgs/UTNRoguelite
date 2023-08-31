@@ -1,21 +1,21 @@
 # UTN Roguelite
-En el presente trabajo el grupo diseñó y desarrolló un juego de estilo Roguelite utilizando Java y el framework libGdx, el cual se especializa en el control de lógica de juegos, principalmente en el uso de texturas gráficas y efectos de sonido
+In the current project, the team designed and developed a Roguelite-style game using Java and the libGdx framework, which specializes in game logic control, particularly in the utilization of graphic textures and sound effects.
 <br />
 <br />
-Como Iniciar: <br />
-Al abrir el proyecto en Intellij, ir al panel de Gradle de la derecha. Entre las opciones, seleccionar Tasks > Other > Run. Una vez ejecutado, se puede usar el Run normalmente.
+Getting Started: <br />
+Upon opening the project in IntelliJ, navigate to the Gradle panel on the right. Among the options, select Tasks > Other > Run. Once executed, you can use the "Run" function as usual.
 <br />
 <br />
-Como Jugar: <br />
-Una vez iniciado y elegido el nombre de juguador, utilizar WASD para moverse y las flechas direccionales para disparar.<br />
-El objetivo del juego es derrotar a los enemigos de la sala, obtener un objeto que mejore sus stats y continuar al siguiente nivel con dificultad incrementada.<br />
-Una vez derrotado, el puntaje del jugador sera agregado al Top 10 Highscores de su computador.<br />
+How to Play: <br />
+After launching the game and selecting a player name, use the WASD keys for movement and the arrow keys to shoot.<br />
+The objective of the game is to defeat the enemies in the room, obtain items that enhance your stats, and proceed to the next level with increased difficulty.<br />
+After defeating enemies, the player's score will be added to the Top 10 Highscores on their computer.<br />
 <br />
-Que lo disfruten!
+Enjoy the experience!
 <br />
 <br />
-Un proyecto de:<br />
+Developed by:<br />
 Alegre Abigail, Burgos Lautaro, Herrero Lucas y Miranda Nicolás
 <br />
 <br />
-Nota: La carpeta test incluye un ejemplo de juego de prueba en libGdx y la carpeta Assets son imagenes de referencia en el desarrollo del juego. Todo el proyecto esta en la carpeta "Roguelite". 
+Note: The "test" folder includes a sample game in libGdx, and the "Assets" folder contains reference images used during the game's development. The entire project is located within the "Roguelite" folder.
